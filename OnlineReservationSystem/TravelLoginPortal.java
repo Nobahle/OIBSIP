@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package onlinereservationsystem;
 import javax.swing.*;
 import java.awt.*;
@@ -19,8 +15,8 @@ public class TravelLoginPortal extends JFrame implements ActionListener {
     private JButton btnLogin;
 
     // Hardcoded credentials (you can later connect this to a DB)
-    private final String VALID_USERNAME = "oasis";
-    private final String VALID_PASSWORD = "java123";
+    private final String VALID_USERNAME = "administrator";
+    private final String VALID_PASSWORD = "password";
 
     public TravelLoginPortal() {
         setTitle("Train Booking Login");
