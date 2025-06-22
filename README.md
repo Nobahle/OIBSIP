@@ -15,6 +15,7 @@ This repository contains all the tasks completed as part of the Oasis Infobyte S
 - Java
 - Git & GitHub
 - Netbeans
+- Derby database
 
 ## 📌 About OIBSIP
 
