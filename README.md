@@ -6,7 +6,7 @@ This repository contains all the tasks completed as part of the Oasis Infobyte S
 | Task No. | Task Name                          | Status    |
 |----------|------------------------------------|-----------|
 | 1        | Guessig Game                       | ✅ Done   |
-| 2        | Online Reservation System          | 🚧In prog.|
+| 2        | Online Reservation System          | ✅ Done   |
 | 3        |                                    |            |
 
 
